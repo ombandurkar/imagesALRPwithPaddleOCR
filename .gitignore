@@ -1,0 +1,13 @@
+.venv/
+cropped-lp/
+frames/
+screenshots/
+ss/
+comparison_results.txt
+main_ocr_results.txt
+ocrImgFileNames.txt
+ocrOtherResults.txt
+original_results.txt
+merged_sheet.csv
+test.py
+saveOriginalResults.py
